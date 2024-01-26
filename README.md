@@ -24,9 +24,19 @@ This repository showcases the implementation of a highly optimized HTTP server, 
 4. Examine the `Dockerfile` for Docker image configuration.
 
 ### To run the Dockerfile, execute following commands
+
+#### To start the server
 ```bash
 docker compose up
 ```
+
+#### To Stop the server
+```bash
+docker compose down
+```
+
+#### Memory & CPU Limit Screenshot
+![mem_limit](https://imgur.com/a/7M8f5gK)
 
 ### HTTP Server
 
