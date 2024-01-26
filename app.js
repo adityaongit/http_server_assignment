@@ -91,7 +91,7 @@ app.get("/data", (req, res) => {
     }
 });
 
-// Start the server and listen on port 3000
-app.listen(3000, () => {
-    console.log("Server is running on port 3000");
+// Start the server and listen on port 8080
+app.listen(8080, () => {
+    console.log("Server is running on port 8080");
 });

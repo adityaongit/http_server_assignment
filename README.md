@@ -23,6 +23,11 @@ This repository showcases the implementation of a highly optimized HTTP server, 
 3. Review the source code in the `app.js` file for the HTTP server implementation.
 4. Examine the `Dockerfile` for Docker image configuration.
 
+### To run the Dockerfile, execute following commands
+```bash
+docker compose up
+```
+
 ### HTTP Server
 
 - Implements a robust HTTP server responding to GET requests on the `/data` endpoint.

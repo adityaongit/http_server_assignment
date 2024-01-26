@@ -18,8 +18,3 @@ EXPOSE 8080
 
 # CMD specifies the command to run on container start
 CMD ["node", "app.js"]
-
-# Specify resource limits
-# The container is allocated a maximum of 1500 MB RAM and 2000m/2 Core CPU
-# Note: The resource limits are set, but their actual enforcement depends on the Docker runtime used
-ENTRYPOINT ["docker-entrypoint.sh"]
