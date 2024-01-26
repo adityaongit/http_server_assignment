@@ -1,6 +1,6 @@
 # HTTP Server Optimization - Final Submission
 
-This repository showcases the implementation of a highly optimized HTTP server, designed to meet the specific requirements outlined by Headout. The server is written in [your chosen language/framework], and the entire application is bundled into a Docker image named `Dockerfile`.
+This repository showcases the implementation of a highly optimized HTTP server, designed to meet the specific requirements outlined by Headout. The server is written in Javascript + (Node.js & Express.js), and the entire application is bundled into a Docker image named `Dockerfile`.
 
 ## Key Features
 
