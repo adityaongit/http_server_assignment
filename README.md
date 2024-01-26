@@ -36,7 +36,7 @@ docker compose down
 ```
 
 #### Memory & CPU Limit Screenshot
-![mem_limit](https://imgur.com/a/7M8f5gK)
+![mem_limit](https://i.imgur.com/0xCNmKI.png)
 
 ### HTTP Server
 
